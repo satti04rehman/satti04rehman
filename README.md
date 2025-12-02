@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 Name: Abdul Rehman<br><br>🎓 Software Engineering Student at Arid Agriculture University, Rawalpindi<br><br>💻 Skilled in C++, Python, HTML, CSS, JavaScript, SQL<br><br>🤖 Interested in AI, Game Development, and Cybersecurity<br><br>🌐 Passionate about Web Development and creating interactive projects<br><br>📘 Currently learning React, Flask, and Data Structures & Algorithms<br><br>📧 Email: satti04rehman@gmail.com
+💫 Name: Abdul Rehman<br><br>🎓 Software Engineering Student at Arid Agriculture University, Rawalpindi<br><br>💻 Skilled in C++, Python, HTML, CSS, JavaScript, SQL<br><br>🤖 Interested in AI, Game Development, Web Development and Cybersecurity<br><br>🌐 Passionate about Web Development and creating interactive projects<br><br>📘 Currently learning React, Flask, and Data Structures & Algorithms<br><br>📧 Email: satti04rehman@gmail.com
 
 
 ## 🌐 Socials:
